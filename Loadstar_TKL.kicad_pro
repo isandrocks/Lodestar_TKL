@@ -441,7 +441,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Loadstar_TKL.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
